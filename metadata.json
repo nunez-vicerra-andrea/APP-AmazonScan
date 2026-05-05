@@ -1,0 +1,11 @@
+{
+  "name": "Amazonia Explorer",
+  "description": "Escanea y descubre la asombrosa fauna de la Amazonia mediante inteligencia artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Recognition",
+    "Nature Education"
+  ]
+}
